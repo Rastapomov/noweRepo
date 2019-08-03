@@ -1,3 +1,3 @@
 "Git jest rozproszonym systemem kontroli wersji i prawie wszystkie operacje są lokalne"
-"Git przechowuję dane jako migawki"
+"Git przechowuję dane jako migawki i tworzy sumy kontrolne przed ich zapisaniem"
 
