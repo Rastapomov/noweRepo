@@ -1,2 +1,3 @@
-"Git to rozproszony system kontroli wersji"
+"Git jest rozproszonym systemem kontroli wersji i prawie wszystkie operacje są lokalne"
+"Git przechowuję dane jako migawki"
 
